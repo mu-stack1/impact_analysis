@@ -12,8 +12,8 @@ for 5 days: 14/29
 for 10 days: 372/773
 
 ## steps to run
-Accepts 2 inputs:
-1. Number of days 
+Accepts 2 inputs while running code:
+1. Number of days
 2. No. of consecutive days student not allowed to skip classes, default value = 4
 
 python graduation_problem.py
